@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodata pribadi</title>
+    <style type="text/css"></style>
+    
+</head>
+<body>
+    <h1 align="center">BIODATA</h1>
+    <hr width="500" style="2">
+    <table align="center" cellpadding="5" align="center" width"800"
+    <tr>
+        <td>NIM</td>
+        <td>A11.2021.13590</td>
+        <td>Nama : Naufal adhi pratama</td>
+    </tr>
+    <tr>
+        <td>tempat, tanggal lahir</td>
+        <td>17 september </td>
+    </tr>
+    <tr>
+        <td>Agama</td>
+        <td>Islam</td>
+    </tr>
+    <tr>
+        <td>Jenis kelamin</td>
+        <td>Laki-laki </td>
+    </tr>
+    <tr>
+        <td>Alamat</td>
+        <td>jln raya sapen no 63 </td>
+    </tr>
+    <tr>
+        <td>hobby</td>
+        <td>Main game</td>
+    </tr>
+</body>
+</html>
